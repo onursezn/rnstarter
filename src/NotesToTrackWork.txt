@@ -1,0 +1,20 @@
+IN PROGRESS:
+- Creating a Container Component
+
+TODO:
+- Text Input
+- Buttons
+
+DONE:
+- Folder structure
+- Prepared for navigation
+- Route names
+- Color constants
+- authState
+
+
+SKIPPED:
+- Stack navigation
+    - Watched till Stack Nativagiton section since this starter doesnt cover only one type of navigation
+    video timestamp: 36:35
+- Context API
