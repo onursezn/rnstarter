@@ -12,7 +12,6 @@ DONE:
 - Color constants
 - authState
 
-
 SKIPPED:
 - Stack navigation
     - Watched till Stack Nativagiton section since this starter doesnt cover only one type of navigation
