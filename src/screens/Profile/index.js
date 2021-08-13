@@ -2,12 +2,12 @@ import React from 'react';
 import { Text, View } from 'react-native';
 import Container from '../../components/common/Container';
 
-const Example = () => {
+const Profile = () => {
     return(
         <Container>
-            <Text>Example screen</Text>
+            <Text>Profile screen</Text>
         </Container>
     )
 }
 
-export default Example;
+export default Profile;
