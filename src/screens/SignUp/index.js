@@ -1,11 +1,13 @@
-import React from 'react-native';
+import React from 'react';
 import Container from '../../components/common/Container';
-import { View, Text } from 'react-native';
+import { Text,Button } from 'react-native';
+import {REGISTER, LOGIN} from '../../constants/routeNames';
 
-const SignUp = () => {
+const SignUp = ({navigation}) => {
     return (
         <Container>
             <Text>SignUp screen</Text>
+            <Button title="Sign In" onPress={() => navigation.push("SignIn")}></Button>
         </Container>
     )
 };
