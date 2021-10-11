@@ -5,7 +5,7 @@ import Container from '../../components/common/Container';
 const Home = () => {
     return(
         <Container>
-            <Text>Home screen</Text>
+            <Text>Home screen!!</Text>
         </Container>
     )
 }

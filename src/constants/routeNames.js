@@ -4,3 +4,4 @@ export const REGISTER = 'Register';
 export const HOME = 'Home';
 export const SETTINGS = 'Settings';
 export const PROFILE = 'Profile';
+export const HOME_TAB = 'Home_Tab';
